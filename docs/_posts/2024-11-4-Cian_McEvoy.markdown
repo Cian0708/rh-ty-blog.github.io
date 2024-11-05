@@ -13,15 +13,15 @@ categories: jekyll update
 
 **This is what I did on Monday**.
 
-*On monday we met for the first time in the reception area and then we went into our office area to setup our internet and account. 
+*On monday we met for the first time in the reception area of the Waterford Red Hat Facility and then we went into our office area to setup our internet and account on our Laptops. 
 We were given an office tour, we went all around the office and saw the different workspaces where all the fire exits are and where the canteen/games area is.*
 
 *we were then given an introduction talk from James and what we were told the bassics and what were going to be learning and doing for the week*
 
-*After the office tour we went into the canteen and games area and played the switch and pool table.*
-*After a while of playing switch and pool we did a workshop with a mr.potato head to show how the workers do their work with their team even if they aren't in the same room or on call to comunicate.*
+*After that we went into the canteen and games area and played the switch and pool table.*
+*After a while of playing switch and pool we did a workshop with David using mr.potato heads and a subject for what we had to create with them to show how the workers do their work with their team even if they aren't in the same room or on call to comunicate.*
 
-*At the end of the day we went of for the last hour and played more with the pool table until we had to go home.*
+*At the end of the day we went off for the last hour and played more with the pool table until we had to go home at 5pm.*
 
 
 ---
